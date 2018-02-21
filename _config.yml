@@ -20,8 +20,8 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://palegreendot.github.io" # the base hostname & protocol for your site
 twitter_username: quanticle
-github_username:  palegreenodt
+github_username:  palegreendot
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-merlot
+theme: minima
