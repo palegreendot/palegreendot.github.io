@@ -14,13 +14,13 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Seattle RRG Reading Notes
-email: your-email@domain.com
+email: quanticle@quanticle.net
 description: > # this means to ignore newlines until "baseurl:"
   This is the site for the reading notes for the Seattle Rationality Reading Group.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://palegreendot.net" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "https://palegreendot.github.io" # the base hostname & protocol for your site
+twitter_username: quanticle
+github_username:  palegreenodt
 
 # Build settings
 markdown: kramdown
