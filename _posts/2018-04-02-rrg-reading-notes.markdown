@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "April 2 2018 RRG Notes"
+title: "April 02 2018 RRG Notes"
 date: 2018-03-31 12:00 -0500
 categories: rrg_notes
 ---
