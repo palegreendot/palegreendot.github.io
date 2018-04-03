@@ -7,7 +7,7 @@ categories: rrg_notes
 
 ## [Making Beliefs Pay Rent (In Anticipated Experiences)](https://www.greaterwrong.com/posts/a7n8GdKiAZRX86T5A/making-beliefs-pay-rent-in-anticipated-experiences)
 * Beliefs should have consequences
-* Beliefs should constraing future experiences
+* Beliefs should constrain future experiences
 * Empiricism is the process of asking what experiences our beliefs predict and, more importantly, which experiences they prohibit
 * When arguing about beliefs, ask about what you would expect to observe as a result of those beliefs
 * If you can't find the difference, you're arguing about what you should put on the label for a particular experience, not the experience itself
