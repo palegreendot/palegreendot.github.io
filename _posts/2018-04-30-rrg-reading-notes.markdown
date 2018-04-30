@@ -28,14 +28,18 @@ categories: rrg_notes
 ## [Neural Categories](https://www.lesswrong.com/posts/yFDKvfN6D87Tf5J9f/neural-categories)
 * Suppose we're creating a neural net to classify bleggs and rubes
 * A naive neural net would represent all of the characteristics of bleggs and rubes as nodes and would have links from every node to every other node
+
   ![naive neural net](/assets/2018-04-30/2018-04-30_rrg_reading_notes_fig_1_nn_1.png)
+  
 * When this neural net sees something that's purple, but still egg-shaped and furred, it will still successfully classify it as vanadium-containing
 * The categories of "blegg" and "rube" are implicit, emergent properties of the neural network, rather than explicit nodes
 * However, this neural net has a few problems
     * Large number of connections required - every node has to be connected to every other node
     * Takes a long time converge - signals have to propagate forwards and backwards before the neural network converges on a judgement
 * A better neural net looks like
+
   ![better neural net](/assets/2018-04-30/2018-04-30_rrg_reading_notes_fig_2_nn_2.png)
+  
 * This neural net has an explicit node for the blegg/rube distinction
 * As observations come in, they activate nodes which feed into the explicit node, pushing it above or below the activation threshold necessary to declare something a blegg or a rube
 * This neural net is much more efficient and converges to an answer much more quickly than the previous naive neural net
