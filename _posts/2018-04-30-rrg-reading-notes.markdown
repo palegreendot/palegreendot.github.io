@@ -74,3 +74,5 @@ categories: rrg_notes
 
 ## *Bonus Challenge*
 * *Use the insights from the above readings on the question of [is {X} a sandwich](/assets/2018-04-30/2018-04-30_rrg_reading_notes_fig_3_sandwich.png)*
+
+![Is it a sandwich?](/assets/2018-04-30/2018-04-30_rrg_reading_notes_fig_3_sandwich.png)
