@@ -9,7 +9,7 @@ mathjax: true
 ## [Math Is Subjunctively Objective](https://www.greaterwrong.com/posts/WAQ3qMD4vdXheQmui/math-is-subjunctively-objective)
 
 * It's easy to establish whether a mathematical statement is true or false, but it's more difficult to assess what it *means* for a mathematical statement to be true or false
-* Does a statement like \(2 + 3 = 5\) exist even without human brains to process it?
+* Does a statement like \\(2 + 3 = 5\\) exist even without human brains to process it?
 * If you have a broken calculator that outputs $2 + 3 = 6$, that doesn't mean that $2 + 3 = 6$ is correct -- it just means you have a broken calculator
 * We can imagine counterfactual worlds in which we get different questions to mathematical questions, but that doesn't mean that those worlds are equally correct to ours
 * If something appears the same way to everyone, regardless of their background, then maybe that thing is as it appears
