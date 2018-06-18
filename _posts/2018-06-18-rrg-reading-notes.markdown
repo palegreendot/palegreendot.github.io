@@ -3,14 +3,13 @@ layout: post
 title: "June 18 2018 RRG Notes"
 date: 2018-06-17 18:00 -0500
 categories: rrg_notes
-mathjax: true
 ---
 
 ## [Math Is Subjunctively Objective](https://www.greaterwrong.com/posts/WAQ3qMD4vdXheQmui/math-is-subjunctively-objective)
 
 * It's easy to establish whether a mathematical statement is true or false, but it's more difficult to assess what it *means* for a mathematical statement to be true or false
-* Does a statement like \\(2 + 3 = 5\\) exist even without human brains to process it?
-* If you have a broken calculator that outputs $2 + 3 = 6$, that doesn't mean that $2 + 3 = 6$ is correct -- it just means you have a broken calculator
+* Does a statement like 2 + 3 = 5 exist even without human brains to process it?
+* If you have a broken calculator that outputs 2 + 3 = 6, that doesn't mean that 2 + 3 = 6 is correct -- it just means you have a broken calculator
 * We can imagine counterfactual worlds in which we get different questions to mathematical questions, but that doesn't mean that those worlds are equally correct to ours
 * If something appears the same way to everyone, regardless of their background, then maybe that thing is as it appears
 
@@ -19,7 +18,7 @@ mathjax: true
 * Is morality like math? Does it exist as a truth regardless of how we compute it?
 * People seem to get morality from their teachers, not a mysterious external referent
 * How are moral preferences different from other sorts of preferences? What makes moral judgments carry more weight than other preferential statements?
-* There is such a thing as morality -- saying that murder is right is no more moral than saying $2 + 3 = 6$
+* There is such a thing as morality -- saying that murder is right is no more moral than saying 2 + 3 = 6
 
 ## [Changing Your Meta-Ethics](https://www.greaterwrong.com/posts/LhP2zGBWR5AdssrdJ/changing-your-metaethics)
 
@@ -74,7 +73,7 @@ mathjax: true
     * The second question isn't the same as the first, as it is empirical rather than ethical
     * However, knowing *why* we think some things are right can help answer whether they *are* right 
 * However, in order to start this process, we must start by asking ourselves, "What is right?" and looking at the answers
-    * Morality seems to run backwards in time -- if an action $A$ is moral, then $B \mid B \rightarrow A$ is also moral
+    * Morality seems to run backwards in time -- if an action A is moral, then B such that B -> A is also moral
     * At some point, though, we have to justify whether an action is moral without saying that it leads to another action which is moral
         * If flipping a switch will pull a child out of the path of a runaway train, you still have to justify saving the child
     * All of our moral arguments seem to end in "self-evident" truths
@@ -101,7 +100,7 @@ mathjax: true
         * Many other things
     * This is a very complex non-verbalizable function that we're trying to maximize
 * However, just because this function is evaluated in our brain doesn't mean that it's an *opinion*
-    * Saying "murder is right" is just as mistaken as saying $2 + 3 = 6$
+    * Saying "murder is right" is just as mistaken as saying 2 + 3 = 6
 * Where does this function come from?
     * Natural selection
     * The fact that this function comes from our evolutionary heritage is not sufficient grounds to reject it
