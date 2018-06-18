@@ -22,7 +22,7 @@ categories: rrg_notes
 
 ## [Changing Your Meta-Ethics](https://www.greaterwrong.com/posts/LhP2zGBWR5AdssrdJ/changing-your-metaethics)
 
-* *Previously discussed on [May 12, 2017]({{site.baseurl}}{% post_url 2017-05-12-rrg-reading-notes%})*
+* *Previously discussed on [May 15, 2017]({{site.baseurl}}{% post_url 2017-05-12-rrg-reading-notes%})*
 * "Killing people is wrong" is ethics
 * "Killing people is wrong because..." is meta-ethics
 * There is far more agreement on ethics than on meta-ethics -- people by and large agree on what is right, but have strong disagreements on why things are right
