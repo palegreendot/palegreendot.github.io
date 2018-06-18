@@ -3,6 +3,7 @@ layout: post
 title: "June 18 2018 RRG Notes"
 date: 2018-06-17 18:00 -0500
 categories: rrg_notes
+mathjax: true
 ---
 
 ## [Math Is Subjunctively Objective](https://www.greaterwrong.com/posts/WAQ3qMD4vdXheQmui/math-is-subjunctively-objective)
