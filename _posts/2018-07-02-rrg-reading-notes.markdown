@@ -109,7 +109,7 @@ categories: rrg_notes
       food, the same hobbies, the same lifestyle choices, etc, he is _implicitly_ also filtering by political belief
 * The red tribe and the blue tribe are each other's outgroup
     * When Osama Bin Laden was killed Blue-tribe people were able to talk about how, even though his death may have been
-      necessesary, it's wrong to revel in the death of any person, even an enemy
+      necessary, it's wrong to revel in the death of any person, even an enemy
     * When Margaret Thatcher died, these same people were throwing parties and singing, "Ding-dong the witch is dead"
     * Osama bin Laden was not a representative of the outgroup for the Blue-tribe, but Margaret Thatcher was
 * These tribal biases are as strong or stronger than other more-commonly-studied biases
