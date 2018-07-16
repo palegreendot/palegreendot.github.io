@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "July 16 2018 RRG Notes"
-date: 2018-07-16 19:00 -0500
+date: 2018-07-15 19:00 -0500
 categories: rrg_notes
 ---
 
