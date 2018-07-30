@@ -17,7 +17,7 @@ categories: rrg_notes
 
 * "The map is not the territory" - coined by Alfred Korzybski
 * Abstractions are distinct from the underlying reality that they represent
-* Abstrations are necessary - a map that is 1:1 to the territory is useless
+* Abstractions are necessary - a map that is 1:1 to the territory is useless
 * However, we must understand the limits of our abstractions
 * Limitations of maps
     * Map may be incorrect in ways that we don't realize
@@ -36,10 +36,10 @@ categories: rrg_notes
         * The problem with VaR is that it ignores the probability of you choosing the wrong probability distribution
         * In 1987, on one day, the stock market dropped by 22.7%
         * The previous record had been a 12.82% decline
-        * According to VaR, the odds of a 22.7% decline in one day would have been infinetesimally small
+        * According to VaR, the odds of a 22.7% decline in one day would have been infinitesimally small
         * The other problem with VaR is that the error bars on the model are often larger than the value itself
         * Using VaR is a problem because banks optimize to VaR - seek to maximize the amount of return for a given VaR
-        * However, because VaR mismeasures risk, these strategies are more risky than the banks think they are, which, in turn causes larger losses than banks have planned for
+        * However, because VaR mis-measures risk, these strategies are more risky than the banks think they are, which, in turn causes larger losses than banks have planned for
     * The correct thing to do is to assume that there are no correct maps, and use heuristics that are informed by models
     * Design organizations with margins of safety at every level
     * The downside to this approach is that you have a lower short turn rate of return - trade this off for a higher chance of long-term survival
