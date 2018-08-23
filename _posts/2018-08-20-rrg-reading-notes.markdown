@@ -56,19 +56,19 @@ C: 1
 
 * **Problem:** An agent is debating whether or not to smoke. She knows that smoking is correlated with an invariably fatal form of lung cancer, but the correlation is (in this imaginary world) due to a common cause: a certain type of arterial lesion will cause agents to both love smoking and also develop fatal lung cancer. There is no direct causal link between smoking and lung cancer, and the agent cannot determine whether she has the lesion or not. Agents without the lesion develop lung cancer only 1% of the time, and smoking delivers a utility of $1000, whereas not developing lung cancer delivers a utility of $1,000,000.
 * There are 8 possible worlds here:
-~~~
-Decision | World                | Utility   | Probability | Weighted Utility | Total Utility
----------+----------------------+-----------+-------------+------------------+--------------
-To smoke | Lesion, cancer       | 1,000     | 0.99        | 990              | 
-         | Lesion, no cancer    | 1,001,000 | 0.01        | 10,010           | 
-         | No lesion, cancer    | 0         | 0.01        | 0                | 
-         | No lesion, no cancer | 0         | 0.99        | 0                | 11,000
----------+----------------------+-----------+-------------+------------------+--------------
-No smoke | Lesion, cancer       | 0         | 0.99        | 0                | 
-         | Lesion, no cancer    | 1,000,000 | 0.01        | 10,000           | 
-         | No lesion, cancer    | 0         | 0.01        | 0                | 
-         | No lesion, no cancer | 0         | 0.99        | 0                | 10,000
-~~~
+    ~~~
+    Decision | World                | Utility   | Probability | Weighted Utility | Total Utility
+    ---------+----------------------+-----------+-------------+------------------+--------------
+    To smoke | Lesion, cancer       | 1,000     | 0.99        | 990              | 
+             | Lesion, no cancer    | 1,001,000 | 0.01        | 10,010           | 
+             | No lesion, cancer    | 0         | 0.01        | 0                | 
+             | No lesion, no cancer | 0         | 0.99        | 0                | 11,000
+    ---------+----------------------+-----------+-------------+------------------+--------------
+    No smoke | Lesion, cancer       | 0         | 0.99        | 0                | 
+             | Lesion, no cancer    | 1,000,000 | 0.01        | 10,000           | 
+             | No lesion, cancer    | 0         | 0.01        | 0                | 
+             | No lesion, no cancer | 0         | 0.99        | 0                | 10,000
+    ~~~
 * An agent that "decides" to smoke has a higher expected utility than one who does not, and the "decision" to smoke is actually just evidence that indicates which set of the possible worlds we're in
 * The actual test for lung cancer narrows it further to a single possible world
 * The analysis is the same if there is a direct causal link between smoking and lung cancer, without the arterial lesion confound
@@ -80,15 +80,15 @@ No smoke | Lesion, cancer       | 0         | 0.99        | 0                |
 * **Problem:** An agent is dying in the desert. A driver comes along who offers to give the agent a ride for $1000, but only if the agent will agree to visit an ATM once they arrive and give the driver $1000. The driver will have no way to enforce this after they arrive, but she does have the ability to detect lies with 99% accuracy. Being left to die causes the agent to lose $1,000,000. In the case where the agent gets a ride, should she proceed to visit an ATM and pay the driver?
 * There is a missing possibility in the problem statement: what are the odds of the driver detecting that the hitchhiker is lying, and then giving a ride anyway?
 * Just like above, we draw a set of possible worlds partitioned by the "decision" the hitchhiker makes
-~~~
-Decision        World       Utility     Probability     Weighted Utility        Total Utility
----------------------------------------------------------------------------------------------
-Pay             Ride        -1,000      0.99            -990                    
-                No ride     -1,001,000  0.01            -10,010                 -11,000
----------------------------------------------------------------------------------------------
-No pay          Ride        0           0.01            0                       
-                No ride     -1,000,000  0.99            -990,000                -990,000
-~~~
+    ~~~
+    Decision        World       Utility     Probability     Weighted Utility        Total Utility
+    ---------------------------------------------------------------------------------------------
+    Pay             Ride        -1,000      0.99            -990                    
+                    No ride     -1,001,000  0.01            -10,010                 -11,000
+    ---------------------------------------------------------------------------------------------
+    No pay          Ride        0           0.01            0                       
+                    No ride     -1,000,000  0.99            -990,000                -990,000
+    ~~~
 * So while the highest utility world is that in which the agent gets a ride, and then doesn't pay, that world has a very low probability of occurring
 * Thus the agent that expects to pay before the trip will have higher expected utility
 * This contradicts the CDT approach, which is to accept the ride, and then refuse to pay
@@ -112,27 +112,27 @@ No pay          Ride        0           0.01            0
     * Odds of taking $100 while intending to take $1
 * We assume that the above two probabilities are the same, and represent the probability of a cosmic ray strike as *p*
 * This leads to the following world enumeration:
-~~~
-Decision            World       Utility     Probability     Weighted Utility        Total Utility
--------------------------------------------------------------------------------------------------
-Attempt taking $100 No ray      $100        1-p             100(1-p)                
-                    Ray         $1          p               p                       100-99p
--------------------------------------------------------------------------------------------------
-Attempt taking $1   No ray      $1          1-p             1-p                     
-                    Ray         $100        p               100p                    1+99p
-~~~
+    ~~~
+    Decision            World       Utility     Probability     Weighted Utility        Total Utility
+    -------------------------------------------------------------------------------------------------
+    Attempt taking $100 No ray      $100        1-p             100(1-p)                
+                        Ray         $1          p               p                       100-99p
+    -------------------------------------------------------------------------------------------------
+    Attempt taking $1   No ray      $1          1-p             1-p                     
+                        Ray         $100        p               100p                    1+99p
+    ~~~
 * By solving the inequality *100-99p < 1+99p*, we see that as long as *p < 0.5* the highest expected utility is to reach for the $100
 * *Note that the fact that the agent would have to take a $1000 checkup if they detect that they've struck by a cosmic ray doesn't matter to the scenario*
 * *We can make a new table, accounting for the checkup as follows:*
-~~~
-Decision            World       Utility     Probability     Weighted Utility        Total Utility
--------------------------------------------------------------------------------------------------
-Attempt taking $100 No ray      $100        1-p             100-100p                
-                    Ray         $1 - 1000   p               p - 1000p               100-1099p
--------------------------------------------------------------------------------------------------
-Attempt taking $1   No ray      $1          1-p             1-p                     
-                    Ray         $100-1000   p               100p-1000p              1-901p
-~~~
+    ~~~
+    Decision            World       Utility     Probability     Weighted Utility        Total Utility
+    -------------------------------------------------------------------------------------------------
+    Attempt taking $100 No ray      $100        1-p             100-100p                
+                        Ray         $1 - 1000   p               p - 1000p               100-1099p
+    -------------------------------------------------------------------------------------------------
+    Attempt taking $1   No ray      $1          1-p             1-p                     
+                        Ray         $100-1000   p               100p-1000p              1-901p
+    ~~~
 * *This leads to the following problem*
     * *100 - 1099p < 1 - 901p*
     * *99 < 198p*
@@ -145,19 +145,19 @@ Attempt taking $1   No ray      $1          1-p             1-p
     * Predictor sends the letter to everyone who would pay, but does not have termites
     * Predictor sends the letter to everyone who would not pay, but does have termites
 * Given that, we can set up the table as follows
-~~~
-Decision        World                   Utility     Probability     Weighted Utility        Total Utility
--------------------------------------------------------------------------------------------------------------------
-Not pay         Termites, letter        -1,000,000  p               -1,000,000p                         
-                Termites, no letter     -1,000,000  0               0
-                No termites, letter     0           1-p             0
-                No termites, no letter  0           0               0                       -1,000,000p
--------------------------------------------------------------------------------------------------------------------
-Pay             Termites, letter        -1,001,000  0               0
-                Termites, no letter     -1,000,000  p               -1,000,000p
-                No termites, letter     -1000       1-p             -1000(1-p)
-                No termites, no letter  0           0               0                       -1,000,000p - 1000(1-p)
-~~~
+    ~~~
+    Decision        World                   Utility     Probability     Weighted Utility        Total Utility
+    -------------------------------------------------------------------------------------------------------------------
+    Not pay         Termites, letter        -1,000,000  p               -1,000,000p                         
+                    Termites, no letter     -1,000,000  0               0
+                    No termites, letter     0           1-p             0
+                    No termites, no letter  0           0               0                       -1,000,000p
+    -------------------------------------------------------------------------------------------------------------------
+    Pay             Termites, letter        -1,001,000  0               0
+                    Termites, no letter     -1,000,000  p               -1,000,000p
+                    No termites, letter     -1000       1-p             -1000(1-p)
+                    No termites, no letter  0           0               0                       -1,000,000p - 1000(1-p)
+    ~~~
 * Thus we see that it is never in the agent's interest to pay
 
 ### Immunity from adversarial predictors
