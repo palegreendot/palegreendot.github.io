@@ -24,4 +24,6 @@ github_username:  palegreendot
 
 # Build settings
 markdown: kramdown
+kramdown:
+  input: GFM
 theme: minima
