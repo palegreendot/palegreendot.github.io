@@ -38,7 +38,7 @@ categories: rrg_notes
 
 ## [The Stamp Collector](http://mindingourway.com/the-stamp-collector/)
 
-(Previously discussed on [2017-03-20](https://palegreendot.net/rrg_notes/2017/03/20/rrg-reading-notes.html#replacing-guilt#the-stamp-collector))
+(Previously discussed on [2017-03-20](https://palegreendot.net/rrg_notes/2017/03/20/rrg-reading-notes.html#the-stamp-collector))
 
 * Thought experiment of the stamp-collecting robot
 * Can the robot really be a stamp collector if it doesn't have access to true knowledge of its own inventory?
@@ -53,7 +53,7 @@ categories: rrg_notes
 
 ## [You're Allowed To Fight For Something](http://mindingourway.com/youre-allowed-to-fight-for-something/)
 
-(Previously discussed on [2017-03-20](https://palegreendot.net/rrg_notes/2017/03/20/rrg-reading-notes.html#replacing-guilt#the-stamp-collector#youre-allowed-to-fight-for-something))
+(Previously discussed on [2017-03-20](https://palegreendot.net/rrg_notes/2017/03/20/rrg-reading-notes.html#replacing-guilt#youre-allowed-to-fight-for-something))
 
 * Listless guilt is guilt that stems from not doing anything
 * We can't do anything about the guilt that results from not doing anything, but we can do something about the guilt that results from not doing a particular thing
