@@ -7,7 +7,7 @@ categories: rrg_notes
 
 ## [You Don't Get To Know What You're Fighting For](http://mindingourway.com/you-dont-get-t/)
 
-Previously discussed on [2017-03-20](you-dont-get-to-know-what-youre-fighting-for)
+Previously discussed on [2017-03-20](https://palegreendot.net/rrg_notes/2017/03/20/rrg-reading-notes.html#you-dont-get-to-know-what-youre-fighting-for)
 
 * It's a lot easier to know what you're working against than to know what you're working for
 * When we work towards a goal, we often find that the goals shifts or evaporates as we work towards it
