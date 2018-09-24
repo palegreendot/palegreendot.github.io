@@ -56,7 +56,7 @@ categories: rrg_notes
   * So then what do people mean when they use the term "cultural Marxism" to point at post-modernist thought?
   * Marxists and postmodernists have the following common characteristics:
     * Activist scholarship -- more concerned with arguing for (or against) a particular ideological point than in establishing the truth
-    * Identity politics -- oppressed groups deserve alliegiance because of their oppression, not because of the validity of their arguments
+    * Identity politics -- oppressed groups deserve allegiance because of their oppression, not because of the validity of their arguments
     * Favor subjectivity and intuition over objectivity and evidence
     * Favor abstraction over concreteness when thinking about reality
     * Everything is the result of power -- scientific results are as much due to power relations are they are due to underlying reality
@@ -65,7 +65,7 @@ categories: rrg_notes
     * There is no such thing as human nature; social problems are caused by cultural and ideological factors
     * Individual wants are mediated by culture, and are therefore untrustworthy
     * Relationships are more fundamental than entities
-    * Unwillingness to pass judgement on cultural practices (especially of those groups considered "oppressed")
+    * Unwillingness to pass judgment on cultural practices (especially of those groups considered "oppressed")
     * Labeling people is illegitimate -- there should be no fixed categories, boundaries or roles in society
     * Subjective interpretations of communication are always correct -- intent has no bearing on meaning
     * People's conceptions of themselves are more important than their objective characteristics
