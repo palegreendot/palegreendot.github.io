@@ -33,7 +33,7 @@ Originally discussed on [2017-07-24](https://palegreendot.net/rrg_notes/2017/07/
 
 ## [Without Belief In A God, But Never Without Belief In A Devil](https://samzdat.com/2017/06/28/without-belief-in-a-god-but-never-without-belief-in-a-devil/)
 
-- Topic [_The True Believer_](https://www.amazon.com/True-Believer-Thoughts-Movements-Perennial/dp/0060505915/) by Eric Hoffer
+- Topic: [_The True Believer_](https://www.amazon.com/True-Believer-Thoughts-Movements-Perennial/dp/0060505915/) by Eric Hoffer
 - Hoffer thinks that mass movements have two stages: active and culminated
 - A _culminated_ mass movement is one that has "settled down" into either being a government or an organization that lobbies the government and has internal structure
 - Hoffer is interested in the earlier part of mass movements, the "active" phase, when it is still revolutionary and attracts zealots
