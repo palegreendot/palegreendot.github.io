@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "December 10 2018 RRG Notes"
+title: "December 17 2018 RRG Notes"
 date: 2018-12-15 14:00 -0600
 categories: rrg_notes
 ---
