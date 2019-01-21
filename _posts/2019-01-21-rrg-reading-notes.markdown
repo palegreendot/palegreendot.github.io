@@ -10,7 +10,7 @@ categories: rrg_notes
 + So why do we bother with defining words at all?
 + It's useful to have short words for commonly defined concepts
 + These short words correspond to the conditional probabilities of the concepts they represent
-    + In an efficient code the code for the combination of Y<sub>1</sub>Z<sub>2</sub> will be just as long as the code for Y<sub>1</sub>Z<sub>2</sub> unless P(Y<sub>1</sub>Z<sub>2</sub>) > P(Y<sub>1</sub>)P(Z<sub>2</sub>)
+    + In an efficient code the code for the combination of Y<sub>1</sub>Z<sub>2</sub> will be just as long as the sum of the codes for Y<sub>1</sub>Z<sub>2</sub> unless P(Y<sub>1</sub>Z<sub>2</sub>) > P(Y<sub>1</sub>)P(Z<sub>2</sub>)
     + This corresponds to the case where we can make an inference about some other property of an object by knowing a particular property
 + We don't replace the word "human" with the definition for "human" because the definition is _huge_
 + However, we're only able to do this because all of the attributes of humanity are correlated with one another
